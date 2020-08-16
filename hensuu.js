@@ -5,7 +5,7 @@ let name ="にんじゃわんこ";
 console.log(name);
 
 // 変数lengthを定義してください
-let length="5";
+let length=5;
 
 // 変数lengthの値を出力してください
 console.log(length);
