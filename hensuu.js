@@ -43,3 +43,12 @@ console.log(langage);
 
 // 定数languageを用いて、「〇〇を話せます」と出力してください
 console.log(langage + "を話せます");
+
+const name = "にんじゃわんこ";
+const age = 14;
+
+// 「ぼくの名前は〇〇です」とコンソールに出力してください
+console.log(`ぼくの名前は${name}です`);
+
+// 「今は〇〇歳です」と出力してください
+console.log(`今は${age}歳です`);
